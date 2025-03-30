@@ -1,4 +1,4 @@
-## Hi there, I'm Suribabu! 👋
+<!-- ## Hi there, I'm Suribabu! 👋
 
 I’m a passionate Full Stack Developer who loves building web applications and solving real-world problems. I enjoy working on exciting projects that involve front-end and back-end technologies. 🚀
 
@@ -41,6 +41,8 @@ I’m a passionate Full Stack Developer who loves building web applications and 
 ---
 
 ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+
+-->
 
 
 <!--
