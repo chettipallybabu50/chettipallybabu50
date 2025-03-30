@@ -91,9 +91,7 @@ I’m a passionate Full Stack Developer who loves building web applications and 
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
 
--->
 
 
 <!--
