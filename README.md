@@ -1,18 +1,23 @@
 
 <h2 align="center">👋 Greetings, I'm Chettipally Suribabu!</h2>
 
-<p align="center">I'm a Full Stack Developer with expertise in Angular, Node.js, and PostgreSQL.</p>
+<h4 align="center">
+  Full Stack Web Developer | Angular | Node.js  | PostgreSQL | AI Enthusiast
+</h4>
 
 
 I'm a passionate Full Stack Developer with over 1 year and 4 months of experience in building dynamic web applications. My expertise lies in creating seamless user interfaces using **Angular** and crafting powerful back-end APIs with **Node.js**. I have hands-on experience with PostgreSQL and enjoy designing robust and scalable solutions.
 
-With a successful track record of delivering high-quality projects and collaborating effectively with cross-functional teams, I'm always eager to explore new technologies and improve my skills. 🎯
+With a successful track record of delivering high-quality projects and collaborating effectively with cross-functional teams, I'm always eager to explore new technologies and improve my skills. 
+
 ---
 
 ### 🚀 **Experience & Projects**
+
 - **Style Bazaar:** Developed a full-stack e-commerce website where sellers can manage products via an admin portal.
 - **Employee Self-Service (ESS) Portal:** Worked on a payroll management project that simplified PF and GF withdrawals, ensuring smooth front-end and back-end operations.
 - **API Development:** Created RESTful APIs and integrated them with front-end applications using Angular and Node.js.
+  
 
 ---
 
@@ -28,15 +33,13 @@ With a successful track record of delivering high-quality projects and collabora
 ### 🛠️ **Technologies & Tools:**
 - 🌐 Frontend: HTML5, CSS3, JavaScript, Angular, Next.js, React
 - 📚 Backend: Node.js, Express.js, PostgreSQL, MySQL
-- ☁️ Cloud & DevOps: AWS, GitHub Actions, Postman
-- 📦 Package Managers: npm, yarn
-- 🛠️ Tools: Git, VS Code, Heroku
+- 📦 Package Managers: npm
+- 🛠️ Tools: Git, VS Code
 
 ---
 
 ### 📫 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/chettipally-suribabu-bb7362210/)
-- [GitHub](https://github.com/chettipallybabu50)
 
 ---
 
