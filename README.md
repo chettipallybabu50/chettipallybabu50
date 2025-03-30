@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with over 1 year and 4 months of experienc
 
 With a successful track record of delivering high-quality projects and collaborating effectively with cross-functional teams, I'm always eager to explore new technologies and improve my skills. 🎯
 
----
+--
 
 ### 🚀 **Experience & Projects**
 - **Style Bazaar:** Developed a full-stack e-commerce website where sellers can manage products via an admin portal.
