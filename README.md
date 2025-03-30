@@ -1,12 +1,13 @@
 
-## 👋 Greetings, I'm Chettipally Suribabu!
+<h2 align="center">👋 Greetings, I'm Chettipally Suribabu!</h2>
+
 **Full Stack Developer | Angular & Node.js Enthusiast | PostgreSQL Expert**
 
 I'm a passionate Full Stack Developer with over 1 year and 4 months of experience in building dynamic web applications. My expertise lies in creating seamless user interfaces using **Angular** and crafting powerful back-end APIs with **Node.js**. I have hands-on experience with PostgreSQL and enjoy designing robust and scalable solutions.
 
 With a successful track record of delivering high-quality projects and collaborating effectively with cross-functional teams, I'm always eager to explore new technologies and improve my skills. 🎯
 
---
+
 
 ### 🚀 **Experience & Projects**
 - **Style Bazaar:** Developed a full-stack e-commerce website where sellers can manage products via an admin portal.
