@@ -15,7 +15,7 @@ I’m a passionate Full Stack Developer who loves building web applications and 
 - Excited to contribute to challenging and innovative projects.
 
 ### 💬 Ask Me About:
-- 🌐 **Angular, Node.js, MySQL, PostgreSQL, Next.js APIs**
+- 🌐 **Angular, Node.js, MySQL, PostgreSQL, Next.js **
 - 📚 Building and integrating RESTful APIs.
 
 ---
@@ -29,12 +29,14 @@ I’m a passionate Full Stack Developer who loves building web applications and 
 - I love attending **tech events**, TED Talks, and participating as a **volunteer** in community-driven activities. 🎉
 
 ---
-
+<!--
 ### 📊 GitHub Stats:
 ![Suribabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chettipallybabu50&show_icons=true&theme=radical)
+-->
 
-### 🔥 Top Technologies:
+<!-- ### 🔥 Top Technologies:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chettipallybabu50&layout=compact)
+-->
 
 ---
 
